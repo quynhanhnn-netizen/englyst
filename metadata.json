@@ -1,0 +1,5 @@
+{
+  "name": "Englyst - Advanced English Learning",
+  "description": "A specialized English learning dashboard for C1 learners focusing on active recall, vocabulary retention from articles, and 5W1H podcast summarization using Gemini AI.",
+  "requestFramePermissions": []
+}
